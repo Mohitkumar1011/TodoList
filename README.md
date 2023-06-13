@@ -1,7 +1,6 @@
 # TodoList
                     TodoList using React.js
-                ![image](https://github.com/Mohitkumar1011/TodoList/assets/95897836/60468499-ba3f-4f82-a2b7-331b81dec64f)
-
+![image](https://github.com/Mohitkumar1011/TodoList/assets/95897836/8e3c0a0f-eebd-424b-a855-ef3f21bba98c)
 
 This TodoList is styled by using Font Awesome.
 https://fontawesome.com/docs/web/use-with/react/
